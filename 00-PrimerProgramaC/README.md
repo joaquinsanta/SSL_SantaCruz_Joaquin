@@ -1,0 +1,1 @@
+En este TP0, vamos a crear nuestro programa en C: "Hola Mundo"
